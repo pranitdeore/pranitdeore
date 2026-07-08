@@ -1,5 +1,3 @@
-<div align="center">
-
 # Hello, I'm Pranit 👋
 
 ### AI & Data Science Student
@@ -18,15 +16,15 @@ while True:
 
 # 🟪 About Me
 
-I am an AI & Data Science student passionate about transforming ideas into intelligent, scalable, and real-world solutions.
+I am an **AI & Data Science student** passionate about transforming ideas into intelligent, scalable, and real-world solutions.
 
-I work across data, software, and connected systems, focusing on clean architecture, automation, and impactful user experiences.
+My interests span across **Artificial Intelligence, Machine Learning, Data Science, IoT, and Advanced Python**, where I enjoy building innovative applications that combine software, automation, and intelligent decision-making.
 
-Currently exploring advanced Machine Learning, Data Science workflows, IoT ecosystems, and AI-powered applications that bridge software with real-world problems.
+I focus on writing clean, efficient, and maintainable code while continuously exploring modern AI technologies, data-driven solutions, and connected systems.
 
 ### ▸ Main Focus
-- Artificial Intelligence & Machine Learning
-- Data Science & Analytics
+- Artificial Intelligence
+- Machine Learning
+- Data Science
 - Internet of Things (IoT)
 - Advanced Python Development
-
