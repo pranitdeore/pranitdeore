@@ -118,3 +118,11 @@ I focus on writing clean, efficient, and maintainable code while continuously ex
 [![](https://komarev.com/ghpvc/?username=pranitdeore&icon=2&color=a855f7)](https://visitcount.itsvg.in)
 
 </div>
+
+<div align="center">
+
+<img src="dino.gif" width="100%"/>
+
+[![](https://komarev.com/ghpvc/?username=pranitdeore&icon=2&color=a855f7)](https://visitcount.itsvg.in)
+
+</div>
