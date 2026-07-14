@@ -47,7 +47,7 @@ I focus on writing clean, efficient, and maintainable code while continuously ex
 </table>
 
 <div align="center">
-  <img src="dino(1).gif" width="500" alt="Dino Runner — because every dev knows the offline struggle"/>
+  <img src="dino.gif" width="500" alt="Dino Runner — because every dev knows the offline struggle"/>
   <br/>
   <sub>🦕 &nbsp;Every developer's spirit animal · offline & unstoppable</sub>
 </div>
