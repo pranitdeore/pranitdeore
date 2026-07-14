@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:a855f7&height=200&section=header&text=Pranit%20Deore&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student&descAlignY=58&descSize=18" width="100%"/>
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:a855f7&height=200&section=header&text=Pranit%20Deore&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student&descAlignY=58&descSize=18](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A855F7&height=260&section=header&text=𝗣𝗿𝗮𝗻𝗶𝘁%20𝗗𝗲𝗼𝗿𝗲&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20•%20Data%20Science%20•%20Machine%20Learning%20Engineer&descAlignY=60&descSize=20)" width="100%"/>
 
 ### Data Science • Machine Learning • IoT • Advanced Python
 
