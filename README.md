@@ -40,7 +40,7 @@ I focus on writing clean, efficient, and maintainable code while continuously ex
 
 <br/><br/>
 
-<img src="hero1.gif" width="280" alt="Portfolio Hero Section"/>
+
 
 </td>
 </tr>
